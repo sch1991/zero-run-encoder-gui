@@ -129,7 +129,7 @@ static inline void RunEncodingMode(LPCSTR lpModeOper, LPCSTR lpInputPath, LPCSTR
 	dwFileAttr = GetFileAttributes(lpOutputPath);
 	if(dwFileAttr & FILE_ATTRIBUTE_DIRECTORY) {
 		char szOutFileName[MAX_PATH_BYTES];
-		GetFileNameWithoutExt(lpInputPath, szOutFileName, sizeof(szOutFileName));
+		GetFileNameWithoutExt(szInFilePath, szOutFileName, sizeof(szOutFileName));
 		StringCbPrintf(szOutFilePath, sizeof(szOutFilePath), "%s\\%s%s", lpOutputPath, szOutFileName, ZERORE_EXT);
 		
 	} else StringCbCopy(szOutFilePath, sizeof(szOutFilePath), lpOutputPath);
