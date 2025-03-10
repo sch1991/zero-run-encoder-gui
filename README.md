@@ -22,7 +22,7 @@
 3. 'GUI App Config'와 'Encoder Config'의 설정값을 조정한 후 'Save' 버튼을 누른다.
 ```
 - 'Encoder Config'가 보이지 않는 경우
-1. 'ZeroRunEncoder.0re-v1.25' 폴더 내부에서 'config.ini'을 삭제한다. (파일이 없는 경우엔 생략)
+1. 'ZeroRunEncoder.0re-v1.25' 폴더 내부에서 'config.ini'을 삭제한다.
 2. 초기 실행 창에서 Details 모드를 선택 후 '0re File Path'에 아무 파일의 경로를 넣고 'Run' 버튼을 누른다.
 3. 'Config' 버튼을 눌러 'Encoder Config'가 보이는지 확인한다.
 ```
