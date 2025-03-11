@@ -34,9 +34,9 @@
 
 # Warning : 
 - This program is an ANSI application. Any Unicode characters you enter may be displayed as '?'.
-- When the IME is not set to English, directly entering the path is not recommended
+- When the IME's input language is not set to English, manually entering the path is not recommended.
 - When manually entering a path, the input is limited to 259 bytes. (Caution when using 2-byte characters)
-- For these reasons, please use drag-and-drop feature for all path entries.
+- For these reasons, if possible, please use the drag-and-drop feature to enter paths.
 
 # Auther : ESonia
 [END]
