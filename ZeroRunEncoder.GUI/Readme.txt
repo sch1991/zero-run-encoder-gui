@@ -35,7 +35,7 @@
 # Warning : 
 - This program is an ANSI application. Any Unicode characters you enter may be displayed as '?'.
 - When manually typing a path, the input is limited to 259 bytes. (Caution when using 2-byte characters)
-- For paths that contain non-English characters, please use the drag-and-drop feature.
+- For paths that contain 2-byte characters, please use the drag-and-drop feature.
 
 # Auther : ESonia
 [END]
