@@ -42,8 +42,8 @@
 <br><br>
 
 ### - 폴더 아카이빙
-- 'Create Archive' 모드로 입력된 폴더를 하나의 파일로 아카이브하여 '*.arc' 파일을 생성한다.
-- 'Extract Archive' 모드로 입력된 '*.arc' 파일을 추출한다.
+- 'Create Archive' 모드 : 입력된 폴더를 하나의 파일로 아카이브하여 '*.arc' 파일을 생성한다.
+- 'Extract Archive' 모드 : 입력된 '*.arc' 파일을 추출한다.
   #### 사용법
 ![image5](https://github.com/user-attachments/assets/0a25ecda-0eb8-40af-9a1f-689d0cc0d7ba)
 1. 메인 창 메뉴에서 Tools(T) > Archiver(A) 를 누르거나 키보드 Ctrl+Shift+A를 눌러 Archiver 창을 띄운다.
@@ -52,9 +52,9 @@
 <br><br>
 
 ### - 파일 or 폴더 Encoding/Decoding
-- 'Encoding' 모드로 입력된 파일 or 폴더 내의 모든 파일을 부호화하여 0re 파일을 생성한다.
-- 'Decoding' 모드로 입력된 0re 파일을 복호화하고 원래의 파일로 복원한다.
-- 'Details' 모드로 입력된 0re 파일의 상세 정보를 확인한다.
+- 'Encoding' 모드 : 입력된 파일 or 폴더 내의 모든 파일을 부호화하여 0re 파일을 생성한다.
+- 'Decoding' 모드 : 입력된 0re 파일을 복호화하고 원래의 파일로 복원한다.
+- 'Details' 모드 : 입력된 0re 파일의 상세 정보를 확인한다.
   #### 사용법
 ![image6](https://github.com/user-attachments/assets/5c8e4844-4cdf-4b3c-93c7-06bc86844dcf)
 1. 작업할 모드를 선택한다.
