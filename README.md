@@ -50,14 +50,14 @@
   #### 사용법
 ![image5](https://github.com/user-attachments/assets/0a25ecda-0eb8-40af-9a1f-689d0cc0d7ba)
 1. 메인 창 메뉴에서 Tools(T) > Archiver(A) 를 누르거나 키보드 Ctrl+Shift+A를 눌러 Archiver 창을 띄운다.
-2. 폴더를 아카이브 파일로 만들려면 Create Archive 모드 / 아카이브 파일을 추출하려면 Extract Archive 모드를 선택한다.
-3. 각 모드에 맞게 'Input Folder Path' or 'Archive File Path' 를 입력하고 'Run' 버튼을 누른다. (Output Path는 자동으로 입력된다.)
+2. 폴더를 아카이브 파일로 만들려면 Create Archive 모드, 아카이브 파일을 추출하려면 Extract Archive 모드를 선택한다.
+3. 각 모드에 맞게 'Input Folder Path' 혹은 'Archive File Path' 를 입력하고 'Run' 버튼을 누른다. (Output Path는 자동으로 입력된다.)
 
 <br>
 
-### - 파일 or 폴더 Encoding/Decoding
-- 'Encoding' 모드 : 입력된 파일 or 폴더 내의 모든 파일을 부호화하여 0re 파일을 생성한다.
-- 'Decoding' 모드 : 입력된 0re 파일을 복호화하고 원래의 파일로 복원한다.
+### - 파일/폴더 압축
+- 'Encoding' 모드 : 입력된 파일 or 폴더 내의 모든 파일을 부호화를 거쳐 압축하고 0re 파일을 생성한다.
+- 'Decoding' 모드 : 입력된 0re 파일을 복호화를 거쳐 원래의 파일로 복원한다.
 - 'Details' 모드 : 입력된 0re 파일의 상세 정보를 확인한다.
   #### 사용법
 ![image6](https://github.com/user-attachments/assets/5c8e4844-4cdf-4b3c-93c7-06bc86844dcf)
@@ -69,8 +69,8 @@
 
 <br>
 
-### - 연결 프로그램으로 열기
-- 
+### - 파일을 프로그램에 연결
+- '*.0re' 혹은 '*.arc' 파일을 열 때, ['추가 앱' > '이 PC에서 다른 앱 찾기' > 'ZeroRunEncoder.GUI.exe'] 로 연결하면, 프로그램이 'Decoding' 모드 혹은 'Extract Archive' 모드로 실행되며, Input & Output Path 가 자동으로 초기화됩니다.
 
 <br><br>
 
@@ -92,4 +92,4 @@
 <br><br>
 
 ## 노트
-- 모든 중단 작업은 우아한 종료를 목표로 하므로, 강제 종료는 삼가해 주시기 바랍니다
+- 모든 중단 작업은 우아한 종료를 목표로 하므로, 강제 종료는 삼가해 주시기 바랍니다.
