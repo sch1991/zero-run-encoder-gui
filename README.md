@@ -56,14 +56,14 @@
 <br>
 
 ### - 파일/폴더 압축
-- 'Encoding' 모드 : 입력된 파일 or 폴더 내의 모든 파일을 부호화를 거쳐 압축하고 0re 파일을 생성한다.
-- 'Decoding' 모드 : 입력된 0re 파일을 복호화를 거쳐 원래의 파일로 복원한다.
+- 'Encoding' 모드 : 입력된 파일 혹은 폴더를 부호화 및 압축 과정을 거쳐 하나의 0re 파일로 생성한다.
+- 'Decoding' 모드 : 입력된 0re 파일을 복호화 및 압축 해제 과정을 거쳐 원래의 파일 혹은 폴더로 복원한다.
 - 'Details' 모드 : 입력된 0re 파일의 상세 정보를 확인한다.
   #### 사용법
 ![image6](https://github.com/user-attachments/assets/5c8e4844-4cdf-4b3c-93c7-06bc86844dcf)
 1. 작업할 모드를 선택한다.
 2. 각 모드에 맞게 'Input File or Folder Path' 혹은 '0re File Path'를 입력한다.
-3. - (Encoding 모드이 경우) 'Output File or Folder Path'를 입력한다. Folder Path 를 입력할 경우, 0re 파일이 "(Folder Path)\\(입력 파일 or 폴더 이름).0re" 경로로 생성된다.
+3. - (Encoding 모드이 경우) 'Output File or Folder Path'를 입력한다. Folder Path 를 입력할 경우, 0re 파일이 "(Folder Path)\\(입력 파일 혹은 폴더 이름).0re" 경로로 생성된다.
    - (Decoding 모드의 경우) 'Output Folder Path'를 입력한다.
 4. 'Run' 버튼을 누른다.
 
