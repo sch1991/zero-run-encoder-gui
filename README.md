@@ -32,6 +32,13 @@
 ### - 도움말
 - 메인 창 메뉴에서 About(A) > Help(H) 를 누르거나 키보드 F1을 눌러 확인 가능하다.
 - App에 대한 소개글과 제공되는 모든 단축키, 주의 사항을 볼 수 있다.
+```
+<주의 사항>
+- 이 프로그램은 ANSI 전용 App으로 유니코드를 사용할 경우, '?'로 표시될 수 있으며 정상 작동이 보장되지 않습니다.
+- IME가 영어가 아닐 경우, 경로를 직접 입력하는 것을 권장하지 않습니다.
+- 경로를 직접 입력할 경우, 입력 경로는 259 Byte로 제한됩니다. (2-byte 문자를 입력할 경우 주의가 필요합니다)
+- 이러한 이유로, 모든 경로 입력에는 Drag-and-drop 기능을 이용해 주시기 바랍니다.
+```
 <br><br>
 
 ### - 폴더 아카이빙
@@ -59,9 +66,13 @@
 
 ## 컴파일 방법
 ### - 환경
-
+- OS : Windows 10 x64
+- IDE : Dev-C++ 5.11
+- Compiler : GCC 4.9.2 64-bit
 ### - 요구 사항
-
+- Linker Option : -Wl,--stack,33554432 -lole32 -lshlwapi -lcomctl32
+- Include File DirPath : ZeroRunEncoder.GUI\include
+- Resource File DirPath : ZeroRunEncoder.GUI\resource
 <br><br><br>
 
 ## 라이선스
@@ -69,4 +80,4 @@
 <br><br><br>
 
 ## 노트
-- 
+- 모든 중단 작업은 우아한 정리를 목표로 하므로, 강제 종료는 삼가해 주시기 바랍니다
