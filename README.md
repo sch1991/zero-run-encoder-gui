@@ -66,7 +66,7 @@
 3. 각 모드에 맞게 'Output File or Folder Path' 혹은 'Output Folder Path'를 입력한다.
 4. 'Run' 버튼을 누른다.
 ```
-Encoding 모드에서 'Output File or Folder Path'를 폴더 경로로 입력한 경우, 0re 파일 생성 경로는 "(폴더 경로)\\(입력 파일 혹은 폴더 이름).0re" 로 설정된다
+Encoding 모드에서 'Output File or Folder Path'를 폴더 경로로 입력한 경우, 0re 파일 생성 경로는 "(폴더 경로)\(입력 파일 혹은 폴더 이름).0re" 로 설정된다
 ```
 
 <br>
