@@ -10,20 +10,20 @@
 ### - 초기 설정 (GUI App 에 Zero Run Encoder 연결)
 ![image1](https://github.com/user-attachments/assets/5aecb43b-ac14-4fe8-b0fe-69e68028c88f)
 
-1. 초기 실행 창에서 'Config' 버튼을 누른다.
+1. 메인 창에서 'Config' 버튼을 누른다.
 
 ![image2](https://github.com/user-attachments/assets/fb7419cd-0580-4d4a-ae88-5a9a7c1a19f6)
 ![image3](https://github.com/user-attachments/assets/f744eb79-4d7a-40a6-bd02-a854aeb36456)
 
-2. 'GUI App Config'의 'Encoder Path'에 'ZeroRunEncoder.0re-v1.25' 폴더를 Drag-and-drop한다.
+2. 'GUI App Config'의 'Encoder Path'에 'ZeroRunEncoder.0re-v1.25' 폴더를 Drag-and-drop 한다.
 
 ![image4](https://github.com/user-attachments/assets/57cdb2d5-ab6e-4193-8427-9f8aec4d75c1)
 
 3. 'GUI App Config'와 'Encoder Config'의 설정값을 조정한 후 'Save' 버튼을 누른다.
 ```
-- 'Encoder Config'가 보이지 않는 경우
-1. 'ZeroRunEncoder.0re-v1.25' 폴더 내부에서 'config.ini'을 삭제한다.
-2. 초기 실행 창에서 Details 모드를 선택 후 '0re File Path'에 아무 파일의 경로를 넣고 'Run' 버튼을 누른다.
+- 'ZeroRunEncoder.0re-v1.25' 연결 후에도 'Encoder Config'가 보이지 않는 경우
+1. 'ZeroRunEncoder.0re-v1.25' 폴더 안에서 'config.ini'을 삭제한다.
+2. 메인 창에서 Details 모드를 선택 후 '0re File Path'에 아무 파일의 경로를 넣고 'Run' 버튼을 누른다.
 3. 'Config' 버튼을 눌러 'Encoder Config'가 보이는지 확인한다.
 ```
 <br><br>
