@@ -67,6 +67,8 @@
    - (Decoding 모드의 경우) 'Output Folder Path'를 입력한다.
 4. 'Run' 버튼을 누른다.
 
+<br>
+
 ### - 연결 프로그램으로 열기
 - 
 
