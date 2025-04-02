@@ -72,7 +72,7 @@ Encoding 모드에서 'Output File or Folder Path'를 폴더 경로로 입력한
 <br>
 
 ### - 프로그램에 연결하여 파일 열기
-- '\*.0re' 혹은 '\*.arc' 파일을 열 때, ['추가 앱' > '이 PC에서 다른 앱 찾기' > 'ZeroRunEncoder.GUI.exe'] 로 연결하면, 프로그램이 'Decoding' 모드 혹은 'Extract Archive' 모드로 실행되며, Input & Output Path 가 자동으로 초기화됩니다.
+- '\*.0re' 혹은 '\*.arc' 파일을 열 때, ['추가 앱' > '이 PC에서 다른 앱 찾기' > 'ZeroRunEncoder.GUI.exe'] 로 연결하여 실행하면 프로그램이 'Decoding' 모드 혹은 'Extract Archive' 모드로 실행되며, Input & Output Path 가 자동으로 초기화됩니다.
 
 <br><br>
 
