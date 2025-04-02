@@ -80,7 +80,7 @@ Encoding 모드에서 'Output File or Folder Path'를 폴더 경로로 입력한
 ### - 환경
 - OS : Windows 10 x64
 - IDE : Dev-C++ 5.11
-- Compiler : GCC 4.9.2 64-bit
+- Compiler : TDM-GCC 4.9.2 64-bit
 ### - 요구 사항
 - Linker Option : -Wl,--stack,33554432 -lole32 -lshlwapi -lcomctl32
 - Include File DirPath : ZeroRunEncoder.GUI\include
