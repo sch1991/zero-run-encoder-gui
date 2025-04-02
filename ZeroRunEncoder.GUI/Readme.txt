@@ -45,7 +45,7 @@
 # Environment : 
 - Windows 10 x64
 - Dev-C++ 5.11
-- GCC 4.9.2 64-bit
+- TDM-GCC 4.9.2 64-bit
 
 # Requirements : 
 - To compile this program, the following requirements must be met.
